@@ -1,5 +1,5 @@
 # NJUPT-Compilation-principle
-###use
+### use
 ```
 git clone git@github.com:OfficialYoungX/NJUPT-Compilation-principle.git
 cd NJUPT-Compilation-principle
